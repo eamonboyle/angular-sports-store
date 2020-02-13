@@ -1,0 +1,15 @@
+input {
+    .ng-dirty {
+        .ng-invalid {
+            border: 2px solid #FF0000;
+        }
+
+        .ng-valid {
+            border: 2px solid #6BC502;
+        }
+    }
+}
+
+.navbar-brand {
+    color: #FFF;
+}
